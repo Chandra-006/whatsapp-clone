@@ -1,0 +1,25 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "changes": [
+        {
+          "value": {
+            "contacts": [
+              { "wa_id": "919999888877", "profile": { "name": "Alice Example" } }
+            ],
+            "messages": [
+              {
+                "id": "wamid.HBgLNzk5OTk4ODg4NzcVAgARGBI",
+                "timestamp": "1710000000",
+                "from": "919999888877",
+                "type": "text",
+                "text": { "body": "hello there!" }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
